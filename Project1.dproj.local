@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/10 08:58:03.000.853,=C:\Users\albuq\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 09:11:30.000.566,C:\Users\albuq\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\uPrincipal.pas</Transaction>
+    <Transaction>2019/08/10 09:11:30.000.566,C:\Users\albuq\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\uPrincipal.dfm</Transaction>
+    <Transaction>2019/08/10 09:11:37.000.320,C:\Users\albuq\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\Project1.dproj</Transaction>
+    <Transaction>2019/08/10 09:37:10.000.322,=C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 09:37:35.000.391,C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\Unit1.pas=C:\Users\albuq\Desktop\Projetos Delphi 10\Calculo IMC\UnitIMC.pas</Transaction>
+  </Transactions>
+</BorlandProject>
